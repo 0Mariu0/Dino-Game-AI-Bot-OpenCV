@@ -1,4 +1,4 @@
-# Chrome Dino Vision Bot
+# Dino Vision Bot
 
 Hey there, I'm Marius! I'm a mechatronics engineering student, so I usually spend my time messing with ESP32s, designing PCBs in KiCad, or 3D printing hydraulic robotic arms. Pure software isn't really my main thing, but I wanted to see if I could build a bot that actually "sees" the screen and plays the hidden Chrome/Brave Dinosaur game using computer vision.
 
