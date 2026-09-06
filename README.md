@@ -1,8 +1,6 @@
 # Dino Vision Bot
 
-Hey there, I'm Mariu! I'm a mechatronics engineering student, so I usually spend my time messing with ESP32s, designing PCBs in KiCad, or 3D printing hydraulic robotic arms. Pure software isn't really my main thing, but I wanted to see if I could build a bot that actually "sees" the screen and plays the hidden Chrome/Brave Dinosaur game using computer vision.
-
-Instead of taking the easy route (like hacking the browser memory or injecting JavaScript), this bot looks at the pixels on your screen and triggers hardware-level keyboard inputs, just like a real player.
+Hey there, I'm Mariu! I'm a mechatronics engineering student, so I usually spend my time messing with ESP32s, designing PCBs in KiCad, or 3D printing. Pure software isn't really my main thing, but I wanted to see if I could build a bot that actually "sees" the screen and plays the hidden Chrome/Brave Dinosaur game using computer vision.
 
 You can grab the code and try it out. I built and tested this on the Brave browser (`brave://dino/`), but it works perfectly fine on Chrome or Edge if you set up the vision window right.
 
@@ -43,6 +41,7 @@ You have to align the bot's "eyes" correctly in **Edit Mode** before pressing pl
 3. The **BOTTOM edge** of the yellow box needs to sit exactly on the ground line.
 4. Stretch the right edge out so it can see 4-5 cacti ahead.
 5. Use your UP/DOWN arrows to place the **Red Line** right below the dino's head.
+<img width="913" height="298" alt="Screenshot 2026-09-06 161553" src="https://github.com/user-attachments/assets/89e8079d-30d2-49b9-a556-283389ffc763" />
 
 ## Tweaking the Jumps
 
