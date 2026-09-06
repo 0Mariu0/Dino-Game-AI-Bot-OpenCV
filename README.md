@@ -2,6 +2,10 @@
 
 Hey there, I'm Mariu! I'm a mechatronics engineering student, so I usually spend my time messing with ESP32s, designing PCBs in KiCad, or 3D printing. Pure software isn't really my main thing, but I wanted to see if I could build a bot that actually "sees" the screen and plays the hidden Chrome/Brave Dinosaur game using computer vision.
 
+
+https://github.com/user-attachments/assets/7f1ad212-fc64-49fb-9e0f-a01091ca177c
+
+
 You can grab the code and try it out. I built and tested this on the Brave browser (`brave://dino/`), but it works perfectly fine on Chrome or Edge if you set up the vision window right.
 
 ## How It Works
