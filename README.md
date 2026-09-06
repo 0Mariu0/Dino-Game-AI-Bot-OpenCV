@@ -38,10 +38,15 @@ You have to align the bot's "eyes" correctly in **Edit Mode** before pressing pl
 
 1. Drag the main **Green Box** over the game area.
 2. The **LEFT edge** of the **Yellow Box** (the radar) must sit perfectly on the tip of the dinosaur's nose.
-3. The **BOTTOM edge** of the yellow box needs to sit exactly on the ground line.
+3. The **BOTTOM edge** of the yellow box needs to sit close to the ground line.
 4. Stretch the right edge out so it can see 4-5 cacti ahead.
 5. Use your UP/DOWN arrows to place the **Red Line** right below the dino's head.
 <img width="913" height="298" alt="Screenshot 2026-09-06 161553" src="https://github.com/user-attachments/assets/89e8079d-30d2-49b9-a556-283389ffc763" />
+
+   **How to Start the Game (Important Flow):**
+1. Position and adjust the green frame and yellow radar box over your game in **Edit Mode**.
+2. Press **`ENTER`** to start the bot (it will switch to Play Mode).
+3. **Important:** Quickly click back onto your browser window (onto the game itself) so it regains focus. Otherwise, the simulated spacebar clicks won't register in the game, and the dino won't jump!
 
 ## Tweaking the Jumps
 
